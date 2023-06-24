@@ -1,4 +1,4 @@
-h1{
+/*h1{
     color: red;
 }
 .name{
@@ -13,8 +13,9 @@ h1{
 
 .description{
     font-size: 50px;
-}
+}*/
 .Dao_txt{
+    text-shadow: 1px 1px 2px green;
     font-size: 24px;
     font-style: italic;
     position: relative;
