@@ -1,0 +1,25 @@
+h1{
+    color: red;
+}
+.name{
+    margin-top: 1000px;
+}
+
+.item_price{
+    background-color: blue;
+    color: orange;
+    margin-top: 100px;
+}
+
+.description{
+    font-size: 50px;
+}
+.Dao_txt{
+    font-size: 24px;
+    font-style: italic;
+    position: relative;
+}
+.Dao_photo{
+    position: absolute;
+    top: 175px;
+}
