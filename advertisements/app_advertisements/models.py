@@ -2,6 +2,7 @@ from django.db import models
 from django.contrib import admin
 from django.contrib.auth import get_user_model
 from django.utils.html import format_html
+from django.forms import ModelForm
 
 User = get_user_model()
 
